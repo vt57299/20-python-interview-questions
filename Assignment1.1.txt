@@ -1,0 +1,59 @@
+1.What is a data type in Python?
+ans. A data type is a classification of data that specifies the type of value that a variable can hold in Python.
+
+2.What are the different data types in Python?
+ans. The different data types in Python are integer, float, string, boolean, list, tuple, dictionary, and set.
+
+3.What is the difference between a list and a tuple in Python?
+ans. A list is mutable, meaning that it can be changed after creation, whereas a tuple is immutable and cannot be changed after creation.
+
+4.How can you convert a string to a number in Python?
+ans. You can convert a string to a number in Python using the int() or float() function.
+
+5.What is an operator in Python?
+ans. An operator is a symbol or a set of symbols that performs an operation on one or more operands.
+
+6.What are the different types of operators in Python?
+ans. The different types of operators in Python are arithmetic, comparison, logical, assignment, bitwise, and membership operators.
+
+7.How do you concatenate strings in Python?
+ans. You can concatenate strings in Python using the '+' operator.
+
+8. What is the difference between '==' and 'is' operators in Python?
+ans. The '==' operator checks if two objects have the same value, while the 'is' operator checks if two objects have the same identity.
+
+9.What are conditional statements in Python?
+ans. Conditional statements are used to execute a block of code based on whether a particular condition is true or false.
+
+10.What are the different types of conditional statements in Python?
+ans. The different types of conditional statements in Python are if, if-else, if-elif-else, and nested if statements.
+
+11.How do you use the 'if' statement in Python?
+ans. The 'if' statement in Python is used to execute a block of code if a condition is true. It has the following syntax: if condition: statement(s)
+
+12. How do you use the 'else' statement in Python?
+ans. The 'else' statement in Python is used to execute a block of code if the 'if' condition is false. It has the following syntax: else: statement(s)
+
+13. How do you use the 'elif' statement in Python?
+ans. The 'elif' statement in Python is used to check for multiple conditions. It has the following syntax: if condition1: statement(s) elif condition2: statement(s) else: statement(s)
+
+14.What is a loop in Python?
+ans. A loop in Python is used to execute a block of code repeatedly until a certain condition is met.
+
+15. What are the different types of loops in Python?
+ans. The different types of loops in Python are the 'for' loop and the 'while' loop.
+
+16. How do you use the 'for' loop in Python?
+ans. The 'for' loop in Python is used to iterate over a sequence of elements. It has the following syntax: for variable in sequence: statement(s)
+
+17. How do you use the 'while' loop in Python?
+ans. The 'while' loop in Python is used to execute a block of code repeatedly as long as a condition is true. It has the following syntax: while condition: statement(s)
+
+18.What is a function in Python?
+ans. A function in Python is a block of code that performs a specific task and can be called from other parts of the program.
+
+19. What are the advantages of using functions in Python?
+ans. The advantages of using functions in Python are that they help to improve code organization, reduce code redundancy, and make the code easier to understand.
+
+20.How do you define a function in python?
+ans. We define a function using "def" keyword followed by the function name and then parameters.
